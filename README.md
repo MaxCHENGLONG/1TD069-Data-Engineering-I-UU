@@ -1,1 +1,1 @@
-# DataEngineering2024
+# DataEngineering-I-2024-Uppsala University
